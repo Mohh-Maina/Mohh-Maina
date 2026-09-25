@@ -1,10 +1,111 @@
 <div align="center">
-#👋 Hi, I'm Maureen Maina
-## 💻 IT Student | 🌐 Web Developer | 🚀 Tech Enthusiast
+👋 Hi, I'm Maureen Maina
+💻 IT Student | 🌐 Web Developer | 🚀 Tech Enthusiast
+<p> Passionate about technology, web development, and building practical solutions. <br> Currently learning, creating, and improving my skills one project at a time. </p> </div>
+👩‍💻 About Me
+
+I'm Maureen Maina, an IT student with a growing passion for web development and programming. I enjoy creating websites, experimenting with code, and learning new technologies.
+
+🎓 IT Student
+
+🌐 Aspiring Web Developer
+
+💡 Interested in creating modern and responsive websites
+
+📚 Continuously learning new technologies
+
+🚀 Building projects to improve my practical skills
+
+🛠️ Skills & Technologies
+🌐 Web Development
+
+HTML5 — Creating structured and semantic web pages
+
+CSS3 — Styling, layouts, animations, and responsive designs
+
+JavaScript — Adding interactivity and dynamic functionality
+
+💻 Languages
+
+HTML
+
+CSS
+
+JavaScript
+
+🔧 Tools
+
+Git
+
+GitHub
+
+Visual Studio Code
+
+Browser Developer Tools
+
+GitHub Pages
+
+📚 Currently Learning
+
+I'm currently working on improving my skills in:
+
+⚡ JavaScript
+
+🎨 Responsive Web Design
+
+🧩 DOM Manipulation
+
+🔄 Git & GitHub
+
+🌐 Modern Web Development
+
+🖥️ Interactive Web Applications
+
+🎯 Current Focus
+
+My current focus is on web development, particularly building responsive and interactive websites using:
+
+HTML  →  Structure
+CSS   →  Design & Layout
+JS    →  Interactivity & Functionality
+
+
+I'm also working on improving my problem-solving skills through practical projects and coding exercises.
+
+📂 Projects
+
+Some of the projects you'll find on my GitHub include:
+
+🌐 Personal Websites
+
+🎨 Responsive Web Designs
+
+⚡ JavaScript Projects
+
+🧪 Coding Experiments
+
+📚 Academic Projects
+
+🚀 Web Development Projects
+
+🧰 Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Tech Stack"> </p>
+📊 GitHub Stats
+<p> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Maureen's GitHub Stats"> </p>
+🌱 My Goal
+
+Learn continuously. Build consistently. Improve every day.
+
+My goal is to grow from an IT student into a skilled developer by gaining practical experience, building real-world projects, and continuously exploring new technologies.
+
+🤝 Let's Connect
+
+I'm always open to learning, collaborating, and connecting with other developers and technology enthusiasts.
+
+Thanks for visiting my profile! 💜
+
+⭐ Feel free to explore my repositories and follow my development journey.
+
+<div align="center">
+🚀 Keep Learning • Keep Building • Keep Growing
 </div>
-  
-<p> Passionate about web development, programming, and technology.<br> I enjoy learning new technologies and building practical projects. </p> </div>
-<h2 align="center">👩‍💻 About Me</h2> <ul> <li>🎓 IT Student passionate about technology</li> <li>🌐 Focused on Web Development</li> <li>💡 Interested in creating responsive and interactive websites</li> <li>📚 Continuously learning and improving my programming skills</li> <li>🚀 Building projects to gain practical development experience</li> </ul> <h2 align="center">🛠️ Skills & Technologies</h2> <h3 align="center">🌐 Web Development</h3> <ul> <li>HTML5</li> <li>CSS3</li> <li>JavaScript</li> </ul> <h3 align="center">💻 Programming Languages</h3> <ul> <li>JavaScript</li> <li>HTML</li> <li>CSS</li> </ul> <h3 align="center">🔧 Tools</h3> <ul> <li>Git</li> <li>GitHub</li> <li>Visual Studio Code</li> <li>Browser Developer Tools</li> <li>GitHub Pages</li> </ul> <h2 align="center">📚 Currently Learning</h2> <ul> <li>⚡ Advanced JavaScript</li> <li>🎨 Responsive Web Design</li> <li>🧩 DOM Manipulation</li> <li>🔄 Git & GitHub</li> <li>🌐 Modern Web Development</li> <li>🖥️ Building Interactive Web Applications</li> </ul> <h2 align="center">🎯 Current Focus</h2> <div align="center"> <p> I'm currently focusing on improving my web development skills by building projects with <strong>HTML, CSS, and JavaScript</strong>. </p> <blockquote> 🚀 Learning by building, improving by practicing, and growing one project at a time. </blockquote> </div> <h2 align="center">📂 Projects</h2> <ul> <li>🌐 Personal Websites</li> <li>🎨 Responsive Web Designs</li> <li>⚡ JavaScript Projects</li> <li>🧪 Coding Experiments</li> <li>📚 Academic Projects</li> <li>🚀 Web Development Projects</li> </ul> <h2 align="center">📊 GitHub Stats</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Maureen's GitHub Stats"> </div> <h2 align="center">💻 Technologies I Use</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Technologies"> </div> <h2 align="center">🤝 Let's Connect</h2> <div align="center"> <p> Thanks for visiting my profile! 💜 </p> <p> Feel free to explore my repositories and follow my journey as I grow as a developer. </p>
-
-⭐ <strong>Keep learning. Keep building. Keep growing.</strong> 🚀
-
