@@ -1,65 +1,47 @@
 <div align="center">
-👋 Hi, I'm Maureen Maina
-💻 IT Student | 🌐 Web Developer | 🚀 Tech Enthusiast
+#👋 Hi, I'm Maureen Maina
+## 💻 IT Student | 🌐 Web Developer | 🚀 Tech Enthusiast
 <p> Passionate about technology, web development, and building practical solutions. <br> Currently learning, creating, and improving my skills one project at a time. </p> </div>
 👩‍💻 About Me
 
 I'm Maureen Maina, an IT student with a growing passion for web development and programming. I enjoy creating websites, experimenting with code, and learning new technologies.
 
-🎓 IT Student
-
-🌐 Aspiring Web Developer
-
-💡 Interested in creating modern and responsive websites
-
-📚 Continuously learning new technologies
-
-🚀 Building projects to improve my practical skills
-
-🛠️ Skills & Technologies
-🌐 Web Development
+- 🎓 IT Student
+- 🌐 Aspiring Web Developer
+- 💡 Interested in creating modern and responsive websites
+- 📚 Continuously learning new technologies
+- 🚀 Building projects to improve my practical skills
+- 🛠️ Skills & Technologies
+- 🌐 Web Development
 
 HTML5 — Creating structured and semantic web pages
-
 CSS3 — Styling, layouts, animations, and responsive designs
-
 JavaScript — Adding interactivity and dynamic functionality
 
 💻 Languages
 
-HTML
-
-CSS
-
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 🔧 Tools
 
-Git
-
-GitHub
-
-Visual Studio Code
-
-Browser Developer Tools
-
-GitHub Pages
+- Git
+- GitHub
+- Visual Studio Code
+- Browser Developer Tools
+- GitHub Pages
 
 📚 Currently Learning
 
 I'm currently working on improving my skills in:
 
-⚡ JavaScript
-
-🎨 Responsive Web Design
-
-🧩 DOM Manipulation
-
-🔄 Git & GitHub
-
-🌐 Modern Web Development
-
-🖥️ Interactive Web Applications
+- ⚡ JavaScript
+- 🎨 Responsive Web Design
+- 🧩 DOM Manipulation
+- 🔄 Git & GitHub
+- 🌐 Modern Web Development
+- 🖥️ Interactive Web Applications
 
 🎯 Current Focus
 
@@ -76,15 +58,11 @@ I'm also working on improving my problem-solving skills through practical projec
 
 Some of the projects you'll find on my GitHub include:
 
-🌐 Personal Websites
-
-🎨 Responsive Web Designs
-
-⚡ JavaScript Projects
-
-🧪 Coding Experiments
-
-📚 Academic Projects
+- 🌐 Personal Websites
+- 🎨 Responsive Web Designs
+- ⚡ JavaScript Projects
+- 🧪 Coding Experiments
+- 📚 Academic Projects
 
 🚀 Web Development Projects
 
