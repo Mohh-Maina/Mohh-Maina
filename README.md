@@ -1,6 +1,6 @@
 <div align="center">
-#👋 Hi, I'm Maureen Maina
-## 💻 IT Student | 🌐 Web Developer | 🚀 Tech Enthusiast
+<h1>👋 Hi, I'm Maureen Maina</h1>
+<h2>💻 IT Student | 🌐 Web Developer | 🚀 Tech Enthusiast</h2>
 <p> Passionate about technology, web development, and building practical solutions. <br> Currently learning, creating, and improving my skills one project at a time. </p> </div>
 👩‍💻 About Me
 
