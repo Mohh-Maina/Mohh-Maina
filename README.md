@@ -1,9 +1,10 @@
 <div align="center">
-👋 Hi, I'm Maureen Maina
-💻 IT Student | 🌐 Web Developer | 🚀 Tech Enthusiast
+#👋 Hi, I'm Maureen Maina
+## 💻 IT Student | 🌐 Web Developer | 🚀 Tech Enthusiast
+</div>
+  
 <p> Passionate about web development, programming, and technology.<br> I enjoy learning new technologies and building practical projects. </p> </div>
 <h2 align="center">👩‍💻 About Me</h2> <ul> <li>🎓 IT Student passionate about technology</li> <li>🌐 Focused on Web Development</li> <li>💡 Interested in creating responsive and interactive websites</li> <li>📚 Continuously learning and improving my programming skills</li> <li>🚀 Building projects to gain practical development experience</li> </ul> <h2 align="center">🛠️ Skills & Technologies</h2> <h3 align="center">🌐 Web Development</h3> <ul> <li>HTML5</li> <li>CSS3</li> <li>JavaScript</li> </ul> <h3 align="center">💻 Programming Languages</h3> <ul> <li>JavaScript</li> <li>HTML</li> <li>CSS</li> </ul> <h3 align="center">🔧 Tools</h3> <ul> <li>Git</li> <li>GitHub</li> <li>Visual Studio Code</li> <li>Browser Developer Tools</li> <li>GitHub Pages</li> </ul> <h2 align="center">📚 Currently Learning</h2> <ul> <li>⚡ Advanced JavaScript</li> <li>🎨 Responsive Web Design</li> <li>🧩 DOM Manipulation</li> <li>🔄 Git & GitHub</li> <li>🌐 Modern Web Development</li> <li>🖥️ Building Interactive Web Applications</li> </ul> <h2 align="center">🎯 Current Focus</h2> <div align="center"> <p> I'm currently focusing on improving my web development skills by building projects with <strong>HTML, CSS, and JavaScript</strong>. </p> <blockquote> 🚀 Learning by building, improving by practicing, and growing one project at a time. </blockquote> </div> <h2 align="center">📂 Projects</h2> <ul> <li>🌐 Personal Websites</li> <li>🎨 Responsive Web Designs</li> <li>⚡ JavaScript Projects</li> <li>🧪 Coding Experiments</li> <li>📚 Academic Projects</li> <li>🚀 Web Development Projects</li> </ul> <h2 align="center">📊 GitHub Stats</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Maureen's GitHub Stats"> </div> <h2 align="center">💻 Technologies I Use</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Technologies"> </div> <h2 align="center">🤝 Let's Connect</h2> <div align="center"> <p> Thanks for visiting my profile! 💜 </p> <p> Feel free to explore my repositories and follow my journey as I grow as a developer. </p>
 
 ⭐ <strong>Keep learning. Keep building. Keep growing.</strong> 🚀
 
-</div>
